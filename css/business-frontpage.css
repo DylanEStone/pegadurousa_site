@@ -44,6 +44,9 @@ body {
 .display-3{
   font-size: 2.5rem !important;
 }
+.noBot{
+  margin-bottom: 0px !important;
+}
 /*!
  * Start Bootstrap - Thumbnail Gallery (https://startbootstrap.com/template-overviews/thumbnail-gallery)
  * Copyright 2013-2017 Start Bootstrap

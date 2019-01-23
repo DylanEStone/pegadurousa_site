@@ -24,3 +24,22 @@ body {
 .py-5{
   padding-top: 0 !important;
 }
+
+.img-thumbnail{
+  padding:0 !important;
+  margin-top: 3em !important;
+}
+.logoImg{
+  vertical-align: middle;
+  border-style: none;
+  height: 3em;
+  border: 0px;
+  border-radius: 100px;
+}
+.special{
+  font-family: 'Alfa Slab One', cursive;
+}
+}
+.center{
+  padding-left: 10px !important;
+}
