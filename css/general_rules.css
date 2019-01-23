@@ -1,0 +1,17 @@
+.logoImg{
+  vertical-align: middle;
+  border-style: none;
+  height: 3em;
+  border: 0px;
+  border-radius: 100px;
+}
+.diff{
+  color: black;
+  cursor: pointer !important;
+  border: 2px !important;
+  border-color: #ea7400 !important;
+  border-style: solid !important;
+}
+.center{
+  padding-left: 10px;
+}
